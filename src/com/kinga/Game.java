@@ -303,6 +303,7 @@ public class Game extends JPanel implements KeyListener, ActionListener {
 
             }
 
+
             //apples
             apple = new ImageIcon("apple.png");
 
