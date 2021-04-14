@@ -10,9 +10,8 @@
 
 ### Start
 
-[![]](https://user-images.githubusercontent.com/61098306/114775083-2f939b00-9d71-11eb-983a-8627631f192a.mp4)
+![video](https://media.giphy.com/media/CDWwj3fTsMvP5hGCg8/giphy.gif)
 
 ### Play mode
 
-[![]](https://j.gifs.com/XozDkV.gif)
-
+![video](https://media.giphy.com/media/MoeS2rrLvjjmOOOV9Z/giphy.gif)
