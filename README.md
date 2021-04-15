@@ -2,9 +2,15 @@
 
 # Snake
 
+Game implemented in Java.
+
 ## Description
 
+Swing based GUI.
+
 ## Features
+
+- Keyboard control
 
 ## Presentation
 
